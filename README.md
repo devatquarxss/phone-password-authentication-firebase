@@ -1,4 +1,4 @@
-Link - `https://phonepassword-auth.firebaseapp.com/`
+Link - https://phonepassword-auth.firebaseapp.com/
 
 # firebaseauth
 
