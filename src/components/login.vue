@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>Login</h2>
-    <input type="number" placeholder="phone Number" v-model="phNo"/><br>
+    +91<input type="number" placeholder="phone Number" v-model="phNo"/><br>
     <input placeholder="password" v-model="password"/><br>
     <button @click="login">Login</button>
   </div>

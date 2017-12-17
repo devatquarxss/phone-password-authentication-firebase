@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>SignUp</h2>
-    <input type="number" v-model="phNo" placeholder="Phone Number"/>
+    +91<input type="number" v-model="phNo" placeholder="Phone Number"/>
     <button id="sign-in-button" @click="sendOtp">Get OTP</button>
     <div id="recaptcha-container"></div><br>
     <input type="number" v-model="otp" placeholder="OTP"/>
