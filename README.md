@@ -1,4 +1,5 @@
-Link - https://phonepassword-auth.firebaseapp.com/
+(Blog/Video)[https://medium.com/@shivampesitbng/firebase-phone-password-auth-in-vue-b94f15b8fb3d]
+(Demo Link)[https://phonepassword-auth.firebaseapp.com/]
 
 # firebaseauth
 
